@@ -36,7 +36,7 @@ Note: The burn function includes a conditional check to ensure that the balance 
 
 ### Deployment
 
-- Deploy it in Remix-IDE and check the above functions, it will work properly.
+-  Deploy it in Remix-IDE and use the above functions, it will work properly.
 
 ## License
 
